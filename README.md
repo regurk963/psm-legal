@@ -2,7 +2,7 @@
 
 This repository hosts the legal documents for the **Paketshop Manager** App by REGURK LIMITED.
 
-🌐 Live URL: https://legal.regurk.ie/
+🌐 Live URL: https://psm.regurk.ie/
 
 ## Structure
 
@@ -22,14 +22,14 @@ paketshop-legal/
 
 ## URLs after deployment
 
-- Landing: https://legal.regurk.ie/
-- Impressum: https://legal.regurk.ie/impressum.html
-- DE Privacy: https://legal.regurk.ie/de/privacy.html
-- DE Terms: https://legal.regurk.ie/de/terms.html
-- DE Support: https://legal.regurk.ie/de/support.html
-- EN Privacy: https://legal.regurk.ie/en/privacy.html
-- EN Terms: https://legal.regurk.ie/en/terms.html
-- EN Support: https://legal.regurk.ie/en/support.html
+- Landing: https://psm.regurk.ie/
+- Impressum: https://psm.regurk.ie/impressum.html
+- DE Privacy: https://psm.regurk.ie/de/privacy.html
+- DE Terms: https://psm.regurk.ie/de/terms.html
+- DE Support: https://psm.regurk.ie/de/support.html
+- EN Privacy: https://psm.regurk.ie/en/privacy.html
+- EN Terms: https://psm.regurk.ie/en/terms.html
+- EN Support: https://psm.regurk.ie/en/support.html
 
 ## Updates
 
@@ -44,8 +44,7 @@ To update a document:
 Venture Hub, 136 Capel Street  
 Dublin, D01 T2C9, Ireland  
 
-- App-specific: psm@regurk.ie
-- General: psm@regurk.ie
+- Email: psm@regurk.ie
 - CRO Number: 813619
 
 ## Notes
